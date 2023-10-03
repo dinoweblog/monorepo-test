@@ -1,0 +1,3 @@
+[submodule "serverlessAPIs"]
+	path = serverlessAPIs
+	url = https://github.com/BatteryPool/serverlessAPIs.git
